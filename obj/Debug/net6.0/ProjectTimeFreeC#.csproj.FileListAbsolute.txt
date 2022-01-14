@@ -1,0 +1,5 @@
+C:\Users\Gustavo\Documents\ProjetosVScode\ProjectTimeFreeC#\obj\Debug\net6.0\ProjectTimeFreeC#.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\ProjectTimeFreeC#\obj\Debug\net6.0\ProjectTimeFreeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ProjetosVScode\ProjectTimeFreeC#\obj\Debug\net6.0\ProjectTimeFreeC#.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ProjetosVScode\ProjectTimeFreeC#\obj\Debug\net6.0\ProjectTimeFreeC#.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ProjetosVScode\ProjectTimeFreeC#\obj\Debug\net6.0\ProjectTimeFreeC#.csproj.CoreCompileInputs.cache
